@@ -1,1 +1,9 @@
 /* Place CSS styles here */
+.button-landing-page {
+    background-color:black;
+    color: white;
+}
+.button-order-online-page {
+    background-color: purple;
+    color:white;
+}
